@@ -1,6 +1,8 @@
 .holder{
 	display: flex;
-	align-item: center;
 	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	
 }
 /* Your CSS Code here. */
